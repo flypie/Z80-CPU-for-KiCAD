@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z80181-QFP
+D Zilog Z80181, Z80 Microprocessor Z180 8bit CISC 100-Pin QFP 20x30
+K Z180 Z80181
+F https://componentsearchengine.com/Datasheets/1/Z8018110FEG.pdf
+$ENDCMP
+#
+#End Doc Library

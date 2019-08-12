@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z8S180-QFP
+D Zilog Z8S180 & Z8S180, Z80 Microprocessor Z180 8bit CISC 80-Pin QFP 24x16
+K Z8S180  Z8L180 Z180
+F http://www.zilog.com/docs/z180/z8s180ps.pdf
+$ENDCMP
+#
+#End Doc Library
