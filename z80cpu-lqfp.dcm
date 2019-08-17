@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Z80CPU-LQFP
-D Zilog Z80 Microprocessor 8bit CISC 44-Pin LQFP
-K Z80 Z84C0006 Z84C0008 Z84C0010 Z84C0020
-F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
-$ENDCMP
-#
-#End Doc Library

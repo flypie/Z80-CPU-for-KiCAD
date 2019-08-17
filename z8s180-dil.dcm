@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Z8S180-DIL
-D Zilog Z8S180, Z80 Microprocessor Z180 8bit CISC 64-Pin PDIP
-K Z8S180 Z180
-F https://www.mouser.co.uk/datasheet/2/450/z8s180ps-28828.pdf
-$ENDCMP
-#
-#End Doc Library

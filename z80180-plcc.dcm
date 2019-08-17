@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Z80180-PLCC
-D Zilog Z80180, Z80 Microprocessor Z180 8bit CISC 6-8-10 MHz 68-Pin PLCC
-K Z180 Z80180
-F http://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0140&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2TVRnd0wzQnpNREUwTUM1d1pHWT0=
-$ENDCMP
-#
-#End Doc Library

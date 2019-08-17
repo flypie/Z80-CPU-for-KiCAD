@@ -48,45 +48,9 @@ K Z180 Z80182 Z8L182
 F https://www.mouser.co.uk/datasheet/2/450/z80182-35610.pdf
 $ENDCMP
 #
-$CMP Z80195-QFP
-D Zilog Z80185 & Z80195, Z80 Microprocessor Z180 8bit CISC 100-Pin QFP 20x30
-K Z80185 Z80195 Z180
-F https://www.mouser.co.uk/datasheet/2/450/z80185-5548.pdf
-$ENDCMP
-#
-$CMP Z80CPU-DIP
-D Zilog Z80 Microprocessor 8bit CISC 40-Pin PDIP
-K Z80 Z84C0006 Z84C0008 Z84C0010 Z84C0020
-F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
-$ENDCMP
-#
-$CMP Z80CPU-LCC
-D Zilog Z80 Microprocessor 8bit CISC 44-Pin PLCC
-K Z80 Z84C0006 Z84C0008 Z84C0010 Z84C0020
-F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
-$ENDCMP
-#
-$CMP Z80CPU-LQFP
-D Zilog Z80 Microprocessor 8bit CISC 44-Pin LQFP
-K Z80 Z84C0006 Z84C0008 Z84C0010 Z84C0020
-F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
-$ENDCMP
-#
-$CMP Z84C13-PLCC
-D Zilog Z80C13 & Z8013, Z80 Microprocessor Z80 8bit CISC 100-Pin QFP 20x30
-K Z80 Z84C1306 Z84C1310 Z84C1516 Z841306 Z841310 Z841516
-F https://www.mouser.co.uk/datasheet/2/450/ps0182-18334.pdf
-$ENDCMP
-#
-$CMP Z84C15-QFP
-D Zilog Z80C15 & Z8015, Z80 Microprocessor Z80 8bit CISC 100-Pin QFP 20x30
-K Z80 Z84C1506 Z84C1510 Z84C1516 Z841506 Z841510 Z841516
-F https://www.mouser.co.uk/datasheet/2/450/ps0182-18334.pdf
-$ENDCMP
-#
 $CMP Z84C15-VQFP
 D Zilog Z80C15, Z80 Microprocessor Z80 8bit CISC 100-Pin QFP 20x30
-K Z80 Z84C1506 Z84C1510 Z84C1516 
+K Z80 Z84C1506 Z84C1510 Z84C1516
 F https://www.mouser.co.uk/datasheet/2/450/ps0182-18334.pdf
 $ENDCMP
 #

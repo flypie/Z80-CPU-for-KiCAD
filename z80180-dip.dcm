@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Z80180-DIP
-D Zilog Z80180, Z80 Microprocessor Z180 8bit CISC 64-Pin PDIP
-K Z180 Z80180
-F http://docs-emea.rs-online.com/webdocs/0865/0900766b80865672.pdf
-$ENDCMP
-#
-#End Doc Library

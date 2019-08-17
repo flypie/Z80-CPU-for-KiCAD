@@ -1,0 +1,135 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z86-193-TQFP-64
+D ZILOG 8-bit Microcontrollers - MCU Z8 40MHZ MUL/DIV/SER/MER
+K Z8 ZILOG Z86193
+F https://componentsearchengine.com/Datasheets/1/Z8619340ASG.pdf
+$ENDCMP
+#
+$CMP Z86-C15-DIL-40
+D zilog 8-bit Microcontrollers - MCU Z8 4K ROM KYBD
+K Zilog Z8
+F https://componentsearchengine.com/Datasheets/1/Z86C1505PSGR2306.pdf
+$ENDCMP
+#
+$CMP Z86-C15-PLCC-44
+D zilog z8 8-bit Microcontrollers - MCU Z8 4K ROM KYBD
+K Z8 Zilog
+F https://www.mouser.co.uk/datasheet/2/450/ds97key03-17779.pdf
+$ENDCMP
+#
+$CMP Z86-C84-DIP-SOIC-PLCC-28
+D IC MCU 8BIT 4KB OTP 28SOIC
+K Zilog Z8 Z86E83 Z86C83
+F http://www.zilog.com/docs/z86c8384.pdf
+$ENDCMP
+#
+$CMP Z86-C90-E34-E40-E43-743-LQFP-44
+D zilog 8-bit Microcontrollers - MCU Z8 4K OTP 12MHz
+K Z8 Z86E43 Z86743 Z86E44 Z86C90  Z86E40
+F https://componentsearchengine.com/Datasheets/1/Z86E4312FSC.pdf
+$ENDCMP
+#
+$CMP Z86-C90-E34-E40-E43-E44-743-DIL-40
+D ZILOG 8-bit Microcontrollers - MCU Z8 4K OTP 12MHz
+K Z86E43 Z86743 Z86E34 Z86C90 Z86E40
+F https://mouser.componentsearchengine.com/Datasheets/1/Z86E4312PSG.pdf
+$ENDCMP
+#
+$CMP Z86-C90-E34-E40-E43-E44-743-PLCC-44
+D zilog 8-bit Microcontrollers - MCU Z8 8K OTP 12 MHZ
+K Z8 Z86E43 Z86743 Z86E44 Z86C90 Z86E40
+F https://componentsearchengine.com/Datasheets/1/Z8674312VSG.pdf
+$ENDCMP
+#
+$CMP Z86-C91-C93-DIL-40
+D Zilog 8-bit Microcontrollers - MCU 16MHz ROMLESS
+K Z86C91 Z86C93 Z8
+F https://componentsearchengine.com/Datasheets/1/Z86C9116PEG.pdf
+$ENDCMP
+#
+$CMP Z86-C91-C93-PLCC-44
+D zilog 8-bit Microcontrollers - MCU 16MHz ROMLESS
+K Z86C91 Z86C93 Z8
+F https://componentsearchengine.com/Datasheets/1/Z86C9116VSG.pdf
+$ENDCMP
+#
+$CMP Z86-C91-C93-QFP-44
+D Zilog 8-bit Microcontrollers - MCU Z8 16 MHZ ROMLESS
+K Z86C91 Z86C93 Z8
+F https://componentsearchengine.com/Datasheets/1/Z86C9116AEG.pdf
+$ENDCMP
+#
+$CMP Z86-C96-PLCC-68
+D Zilog 8-bit Microcontrollers - MCU 20MHz ROMLESS
+K Z8 Z*CC96
+F https://componentsearchengine.com/Datasheets/1/Z86C9620VSG.pdf
+$ENDCMP
+#
+$CMP Z86-E02-E03-E04-E06-E08-L04-L08-DIP-SOIC-18
+D Zilog Z8 8-bit Microcontrollers - MCU 512B-1K-2k OTP DIP/SOIC 12MHz OSC RC
+K Z8
+F https://componentsearchengine.com/Datasheets/1/Z86E0412PEG1903.pdf
+$ENDCMP
+#
+$CMP Z86-E02-E03-E04-E06-E08-SSOP-20
+D zilog ssop 8-bit Microcontrollers - MCU 1K OTP 12MHz XTEMP
+K Z180 Z86E02 Z86E04 Z86E08
+F https://componentsearchengine.com/Datasheets/1/Z86E0412HEG1866.pdf
+$ENDCMP
+#
+$CMP Z86-E15-DIL-40
+D Zilog 8-bit Microcontrollers - MCU 4K OTP 5MHz KYBD
+K Z8 Zilog
+F https://mouser.componentsearchengine.com/Datasheets/1/Z86E1505PSG.pdf
+$ENDCMP
+#
+$CMP Z86-E15-PLCC-44
+D Zilog 8-bit Microcontrollers - MCU 4K OTP 5MHz KYBD
+K Z8 Zilog Z86E15
+F https://mouser.componentsearchengine.com/Datasheets/1/Z86E1505PSG.pdf
+$ENDCMP
+#
+$CMP Z86-E15-QFP-44
+D Zilog 8-bit Microcontrollers - MCU 4K OTP 5MHz KYBD
+K Z8 Zilog Z86E15
+F https://mouser.componentsearchengine.com/Datasheets/1/Z86E1505PSG.pdf
+$ENDCMP
+#
+$CMP Z86-E28-E31-DIL-30
+D 8-bit Microcontrollers - MCU 8K OTP 16MHZ W/UART Z86E30/E31
+K ZILOG  Z86E30 Z86E31
+F https://componentsearchengine.com/Datasheets/1/Z86E3016PEG.pdf
+$ENDCMP
+#
+$CMP Z86-E33-E34-733-DIP-SOIC-PLCC-28
+D Zilog 8-bit Microcontrollers - MCU Z8 4K OTP 12MHz
+K Z8 Z86E33 Z86733
+F https://componentsearchengine.com/Datasheets/1/Z86E3312PSG.pdf
+$ENDCMP
+#
+$CMP Z86-E61-E63-DIL-40
+D Zilog 8-bit Microcontrollers - MCU 16K OTP 16MHz W/UART
+K Z8  Z86E61 Z86E63
+F https://componentsearchengine.com/Datasheets/1/Z86E6116PSC.pdf
+$ENDCMP
+#
+$CMP Z86-E61-E63-PLCC-44
+D 8-bit Microcontrollers - MCU 16K OTP 16MHz W/UART
+K Z8  Z86E61 Z86E63
+F https://componentsearchengine.com/Datasheets/1/Z86E6116PSC.pdf
+$ENDCMP
+#
+$CMP Z86-E61-E63-QFP-44
+D 8-bit Microcontrollers - MCU Z8 16K OTP 16 MHZ WITH UART
+K Zilog Z86E61 Z86E63  Z8
+F https://componentsearchengine.com/Datasheets/1/Z86E6116PSC.pdf
+$ENDCMP
+#
+$CMP Z86-E83-C83-DIP-SOIC-PLCC-28
+D IC MCU 8BIT 4KB OTP 28SOIC
+K Zilog Z8 Z86E83 Z86C83
+F http://www.zilog.com/docs/z86c8384.pdf
+$ENDCMP
+#
+#End Doc Library

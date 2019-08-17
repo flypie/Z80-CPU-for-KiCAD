@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP Z84C15-VQFP
-D Zilog Z80C15, Z80 Microprocessor Z80 8bit CISC 100-Pin QFP 20x30
-K Z80 Z84C1506 Z84C1510 Z84C1516 
-F https://www.mouser.co.uk/datasheet/2/450/ps0182-18334.pdf
-$ENDCMP
-#
-#End Doc Library
