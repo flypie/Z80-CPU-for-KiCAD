@@ -1,11 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP Z80195-QFP
-D Zilog Z80185 & Z80195, Z80 Microprocessor Z180 8bit CISC 100-Pin QFP 20x30
-K Z80185 Z80195 Z180
-F https://www.mouser.co.uk/datasheet/2/450/z80185-5548.pdf
-$ENDCMP
-#
 $CMP Z80CPU-DIP
 D Zilog Z80 Microprocessor 8bit CISC 40-Pin PDIP
 K Z80 Z84C0006 Z84C0008 Z84C0010 Z84C0020
