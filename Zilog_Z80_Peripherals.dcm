@@ -1,0 +1,92 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CTC-DIP-28
+D Z8430 Zilog CTC
+K Z8430 Zilog CTC
+F http://www.zilog.com/docs/z80/ps0181.pdf
+$ENDCMP
+#
+$CMP CTC-PLCC-44
+D Z8430 Zilog CTC
+K Z8430 Zilog CTC
+F http://www.zilog.com/docs/z80/ps0181.pdf
+$ENDCMP
+#
+$CMP CTC-QFP-44
+D Z8430 Zilog CTC
+K Z8430 Zilog CTC
+F http://www.zilog.com/docs/z80/ps0181.pdf
+$ENDCMP
+#
+$CMP DART-DIP-40
+D Z80 DART Z8470 Zilog
+K Z80 DART Z8470 Zilog
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP DMA-DIP-40
+D Z8410 DMA Zilog Z8410
+K Z8410 DMA Zilog Z8410
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP DMA-PLCC-44-CMOS
+D Z84C10 Z84C10 ZILOG DMA
+K Z84C10 Z84C10 ZILOG DMA
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP DMA-PLCC-44-NMOS
+D Z8410 Z84C10 ZILOG DMA
+K Z8410 Z84C10 ZILOG DMA
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP PIO-DIP-40
+D ZILOG PIO DIP-40 Z84C20 Z8420
+K Z80 PIO Z84C20 Z8420  ZILOG
+F https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=
+$ENDCMP
+#
+$CMP PIO-LQFP-44
+D Z80 PIO Z84C20 Z8420  ZILOG LQFP 44
+K Z80 PIO Z84C20 Z8420  ZILOG
+F https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=
+$ENDCMP
+#
+$CMP PIO-PLCC-44
+D Z80 PIO Z84C20 Z8420  ZILOG, PLCC 44
+K Z80 PIO Z84C20 Z8420  ZILOG
+F https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=
+$ENDCMP
+#
+$CMP SIO0-DIP-40
+D Z80 CMOS SIO/0 Z84C40 Zilog
+K Z80 CMOS SIO/0 Z84C40 Zilog
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP SIO1-DIP-40
+D Z80 CMOS SIO/1 Z84C41 Zilog
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP SIO2-DIP-40
+D Z80 CMOS SIO/2 Z84C42 Zilog
+K Z80 CMOS SIO/2 Z84C42 Zilog
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP SIO3-PLCC-44
+D Z80 CMOS SIO/3 Z84C43 Zilog
+K Z80 CMOS SIO/3 Z84C43 Zilog
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP SIO4-QFP-44
+D Z80 CMOS SIO/4 Z84C44 Zilog
+K Z80 CMOS SIO/4 Z84C44 Zilog
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+#End Doc Library
