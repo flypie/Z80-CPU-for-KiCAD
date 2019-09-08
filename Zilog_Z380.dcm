@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z380-100-PQFP
+D ZILOG Z380 Microprocessors - MPU 16 BIT Z80 MPU
+K  Z380  Zilog
+F https://www.mouser.de/datasheet/2/450/z380-35312.pdf
+$ENDCMP
+#
+#End Doc Library

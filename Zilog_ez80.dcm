@@ -1,30 +1,32 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP eZ80190-LQFP
-D 8-bit Microcontrollers - MCU 50MHz 0KB Flash 0KB SRAM 3.5V
+D Zilog 8/16 bit Watchdog, 2Channel DMA I2C, SPI orUART. 32 GPIO 3v Power %v tolerant
+K Zilog eZ80190 wZ80
 F http://www.zilog.com/docs/ez80/ps0066.pdf
 $ENDCMP
 #
-$CMP eZ8091-BGA
-D 8-bit Microcontrollers - MCU 50MHz 256KB Flash 16KB SRAM w/EMAC XT
+$CMP eZ80F91-BGA
+D Zilog 8/16-bit Microcontrollers - MCU 50/20MHz I/O -32, 2 UARTs w/ IrDA, I²C, SPI RAM 8k 256K flash
+K Zilog eZ80 ez80f91
 F https://componentsearchengine.com/Datasheets/1/EZ80F91NAA50SG.pdf
 $ENDCMP
 #
-$CMP eZ8091-LQFP
-D 8-bit Microcontrollers - MCU 50MHz 256KB Flash 16KB SRAM w/EMAC XT
-F https://componentsearchengine.com/Datasheets/1/EZ80F91AZA50EG.pdf
+$CMP eZ80F91-LQFP
+D Zilog 8/16-bit Microcontrollers - MCU 50/20MHz I/O -32, 2 UARTs w/ IrDA, I²C, SPI RAM 8k 256K flash
+F http://www.zilog.com/docs/ez80acclaim/ps0192.pdf
 $ENDCMP
 #
 $CMP eZ80F92-eZ80F93-LQFP
-D 8-bit Microcontrollers - MCU 50MHz 128KB Flash 8KB SRAM  or 64KB Flash 4KB SRAM
-K eZ80F92 eZ80F93 eZ80
-F http://www.zilog.com/docs/ez80acclaim/devtools/pb0105.pdf
+D Zilog 8/16-bit Microcontrollers - MCU 50/20MHz I/O -24, 2 UARTs w/ IrDA, I²C, SPI RAM 8k
+K eZ80F92 eZ80F93 eZ80 eZ80Acclaim! Zilog
+F http://www.zilog.com/docs/ez80acclaim/PS0153.pdf
 $ENDCMP
 #
 $CMP eZ80L92
-D 8-bit Microcontrollers - MCU 50MHz 0KB Flash 0KB SRAM 3.5V
-K Z180 EZ90L92
-F https://www.arrow.com/en/products/ez80l92az050eg/ixys
+D Zilog 8/16-bit Microcontrollers - MCU 50/20MHz I/O -24, 2 UARTs w/ IrDA, I²C, SPI RAM 8k
+K Z180 EZ90L92 Zilog
+F http://www.zilog.com/docs/ez80/PS0130.pdf
 $ENDCMP
 #
 #End Doc Library
