@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ZilogBack
+#
+DEF ZilogBack Logo 0 40 Y Y 1 F N
+F0 "Logo" 100 50 50 H V C CNN
+F1 "ZilogBack" 200 150 50 H V C CNN
+F2 "Symbol:ZilogInsideBack" 450 250 50 H I C CNN
+F3 "" 200 150 50 H I C CNN
+DRAW
+T 0 350 -50 79 0 0 0 "Zilog Inside" Normal 1 C C
+ENDDRAW
+ENDDEF
+#
+#End Library
