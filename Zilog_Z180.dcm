@@ -6,12 +6,6 @@ K Z8S180 Z8L180 Z180
 F http://www.mouser.com/ds/2/450/z8s180ps-28828.pdf
 $ENDCMP
 #
-$CMP Z8-L180-S180-180-PLCC-68_units
-D Zilog Z8S180 & Z8L180, Z80 Microprocessor Z180 8bit CISC 68-Pin PLCC
-K Z8S180 Z8L180 Z180
-F http://www.mouser.com/ds/2/450/z8s180ps-28828.pdf
-$ENDCMP
-#
 $CMP Z8-L180-S180-180-PQFP-80
 D Zilog Z8S180 & Z8S180, Z80 Microprocessor Z180 8bit CISC 80-Pin PQFP 24x16
 K Z8S180  Z8L180 Z180
@@ -30,26 +24,14 @@ K Z180 Z80181
 F https://componentsearchengine.com/Datasheets/1/Z8018110FEG.pdf
 $ENDCMP
 #
-$CMP Z80-182-PQFP-100_units
-D Zilog Z80182 & Z8L182, Z80 Microprocessor Z180 8bit CISC 100-Pin PQFP 20x30
-K Z801 Z80182 Z8L182
-F https://www.mouser.co.uk/datasheet/2/450/z80182-35610.pdf
-$ENDCMP
-#
-$CMP Z80-182-QFP-100
-D Zilog Z80182 & Z8L182, Z80 Microprocessor Z180 8bit CISC 100-Pin QFP 20x30
+$CMP Z80-182-L182-LQFP-100
+D Zilog Z80182 & Z8L182, Z80 Microprocessor Z180 8bit CISC 100-Pin LQFP 20x30 ESCC, CSIO, UART, PIO 3.3V operation
 K Z180 Z80182 Z8L182
 F https://www.mouser.co.uk/datasheet/2/450/z80182-35610.pdf
 $ENDCMP
 #
-$CMP Z80-182-VQFP-100
-D Zilog Z80182 & Z8L182, Z80 Microprocessor Z180 8bit CISC 100-Pin VQFP 25x25
-K Z180 Z80182 Z8L182
-F https://www.mouser.co.uk/datasheet/2/450/z80182-35610.pdf
-$ENDCMP
-#
-$CMP Z80-182-VQFP-100_units
-D Zilog Z80182 & Z8L182, Z80 Microprocessor Z180 8bit CISC 100-Pin VQFP 25x25
+$CMP Z80-182-L182-VQFP-100
+D Zilog Z80182 & Z8L182, Z80 Microprocessor Z180 8bit CISC 100-Pin VQFP 25x25 ESCC, CSIO, UART, PIO 3.3V operation
 K Z180 Z80182 Z8L182
 F https://www.mouser.co.uk/datasheet/2/450/z80182-35610.pdf
 $ENDCMP
