@@ -54,6 +54,24 @@ K Z8410 Z84C10 ZILOG DMA
 F http://www.zilog.com/docs/z80/ps0183.pdf
 $ENDCMP
 #
+$CMP ISSC-Z16C35-PLCC-68
+D Z80 ISSC Z16C35 Zilog
+K Z80 ISSC Z16C35 Zilog
+F https://www.zilog.com/docs/serial/dc2515.pdf
+$ENDCMP
+#
+$CMP IUSC-Z16C32-PLCC-68
+D Z80 IUSC Z16C32 Zilog
+K Z80 IUSC Z16C32 Zilog
+F http://www.zilog.com/docs/z80/PS0117.pdf
+$ENDCMP
+#
+$CMP IUSC-Z16C32-QFP-80
+D Z80 IUSC Z16C32 Zilog
+K Z80 IUSC Z16C32 Zilog
+F http://www.zilog.com/docs/z80/PS0117.pdf
+$ENDCMP
+#
 $CMP KIO-PLCC-84
 D Z84C90 KIO Serial/Parallel Counter/Timer
 K Z84C90 KIO Serial/Parallel Counter/Timer
@@ -84,6 +102,42 @@ K Z80 PIO Z84C20 Z8420  ZILOG
 F https://www.zilog.com/appnotes_download.php?FromPage=DirectLink&dn=PS0180&ft=Product%20Specification%20(Data%20Sheet)%20%20&f=YUhSMGNEb3ZMM2QzZHk1NmFXeHZaeTVqYjIwdlpHOWpjeTk2T0RBdmNITXdNVGd3TG5Ca1pnPT0=
 $ENDCMP
 #
+$CMP SCC-Z8030-DIP-40
+D Z80 SCC Z8030 Zilog
+K Z80 SCC Z8030 Zilog
+F http://www.zilog.com/docs/z80/PS0117.pdf
+$ENDCMP
+#
+$CMP SCC-Z8030-PLCC-44
+D Z80 SCC Z80C30 Zilog
+K Z80 SCC Z80C30 Zilog
+F http://www.zilog.com/docs/z80/PS0117.pdf
+$ENDCMP
+#
+$CMP SCC-Z8530-DIP-40
+D Z80 SCC Z80C30 Zilog
+K Z80 SCC Z80C30 Zilog
+F http://www.zilog.com/docs/z80/PS0117.pdf
+$ENDCMP
+#
+$CMP SCC-Z8530-PLCC-44
+D Z80 SCC Z80C30 Zilog
+K Z80 SCC Z80C30 Zilog
+F http://www.zilog.com/docs/z80/PS0117.pdf
+$ENDCMP
+#
+$CMP SCSI-Z53C80-DIP-48
+D Z80 SCSI Z53C80 Zilog
+K Z80 SCSI Z53C80 Zilog
+F https://www.zilog.com/docs/serial/ps0108.pdf
+$ENDCMP
+#
+$CMP SCSI-Z53C80-PLCC-44
+D Z80 SCSI Z53C80 Zilog
+K Z80 SCSI Z53C80 Zilog
+F https://www.zilog.com/docs/serial/ps0108.pdf
+$ENDCMP
+#
 $CMP SIO0-DIP-40
 D Z80 CMOS SIO/0 Z84C40 Zilog
 K Z80 CMOS SIO/0 Z84C40 Zilog
@@ -111,6 +165,18 @@ $CMP SIO4-QFP-44
 D Z80 CMOS SIO/4 Z84C44 Zilog
 K Z80 CMOS SIO/4 Z84C44 Zilog
 F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP USC-Z16C30-LQFP-100
+D Z80 USC Z16C30 Zilog
+K Z80 USC Z16C30 Zilog
+F http://www.zilog.com/docs/z80/PS0117.pdf
+$ENDCMP
+#
+$CMP USC-Z16C30-PLCC-68
+D Z80 USC Z16C30 Zilog
+K Z80 USC Z16C30 Zilog
+F http://www.zilog.com/docs/z80/PS0117.pdf
 $ENDCMP
 #
 #End Doc Library
