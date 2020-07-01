@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CIO-Z8536-DIP-40
+D Z80 CIO Z8536 Zilog
+K Z80 CIO Z8536 Zilog
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
+$CMP CIO-Z8536-PLCC-44
+D Z80 CIO Z8536 Zilog
+K Z80 CIO Z8536 Zilog
+F http://www.zilog.com/docs/z80/ps0183.pdf
+$ENDCMP
+#
 $CMP CTC-DIP-28
 D Z8430 Zilog CTC
 K Z8430 Zilog CTC

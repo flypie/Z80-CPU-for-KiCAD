@@ -60,6 +60,8 @@ F0 "IC" 0 50 59 H V L BNN
 F1 "Z80CPU-LCC" 500 50 59 H V L BNN
 F2 "Package_LCC:PLCC-44" 500 -1700 50 H I C CNN
 F3 "" 500 -1200 50 H I C CNN
+F4 "Zilog" -400 50 50 H I C CNN "Manufacturer_Name"
+F5 "Z84C00" -500 200 50 H I C CNN "Manufacturer_Part_Number"
 DRAW
 S -50 -2000 -50 -2000 1 0 0 N
 S 0 0 1000 -2550 1 0 0 f
