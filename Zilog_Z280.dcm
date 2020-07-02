@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z280-Z-BUS-PLCC-68
+D Zilog Z8S180 & Z8L180, Z80 Microprocessor Z180 8bit CISC 68-Pin PLCC
+K Z8S180 Z8L180 Z180
+F http://www.mouser.com/ds/2/450/z8s180ps-28828.pdf
+$ENDCMP
+#
+$CMP Z280-Z80-Bus-PLCC-68
+D Zilog Z8S180 & Z8L180, Z80 Microprocessor Z180 8bit CISC 68-Pin PLCC
+K Z8S180 Z8L180 Z180
+F http://www.mouser.com/ds/2/450/z8s180ps-28828.pdf
+$ENDCMP
+#
+#End Doc Library
