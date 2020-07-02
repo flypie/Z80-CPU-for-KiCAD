@@ -6,8 +6,8 @@ K  Z380  Zilog
 F https://www.mouser.de/datasheet/2/450/z380-35312.pdf
 $ENDCMP
 #
-$CMP Z382-144-PQFP
-D ZILOG Z382 Microprocessors - Data Communicatiosn Processors
+$CMP Z382-Z8L382-144-PQFP
+D ZILOG Z80382 Z8L382 Microprocessors - Data Communicatiosn Processors
 K  Z380  Zilog Z80382 Z8L382
 F https://www.mouser.co.uk/datasheet/2/450/ps0067-604.pdf
 $ENDCMP
