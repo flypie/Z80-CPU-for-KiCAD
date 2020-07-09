@@ -8,7 +8,7 @@ F0 "IC" -100 50 50 H V L CNN
 F1 "Z280-Z-BUS-PLCC-68" 2050 50 50 H V L CNN
 F2 "Package_LCC:PLCC-68" 0 1000 50 H I L CNN
 F3 "" 1350 -100 50 H I L CNN
-F4 "Zilog Z8S180 & Z8L180, Z80 Microprocessor Z180 8bit CISC 68-Pin PLCC" 3650 -2825 50 H I L CNN "Description"
+F4 "Zilog  Z280, Z80 Microprocessor Z280 8bit CISC 68-Pin PLCC" 3650 -2825 50 H I L CNN "Description"
 F5 "4.57" 1350 1000 50 H I L CNN "Height"
 F6 "Zilog" 1300 900 50 H I L CNN "Manufacturer_Name"
 F7 "Z8S18033VSG" 0 900 50 H I L CNN "Manufacturer_Part_Number"
@@ -97,7 +97,7 @@ F0 "IC" -100 50 50 H V L CNN
 F1 "Z280-Z80-Bus-PLCC-68" 2000 100 50 H V L CNN
 F2 "Package_LCC:PLCC-68" 0 1000 50 H I L CNN
 F3 "" 1350 -100 50 H I L CNN
-F4 "Zilog Z8S180 & Z8L180, Z80 Microprocessor Z180 8bit CISC 68-Pin PLCC" 3650 -2825 50 H I L CNN "Description"
+F4 "Zilog Z280 & Z80 Microprocessor Z280 8bit CISC 68-Pin PLCC" 3650 -2825 50 H I L CNN "Description"
 F5 "4.57" 1350 1000 50 H I L CNN "Height"
 F6 "Zilog" 1300 900 50 H I L CNN "Manufacturer_Name"
 F7 "Z8S18033VSG" 0 900 50 H I L CNN "Manufacturer_Part_Number"
