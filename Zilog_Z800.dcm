@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z8108
+D Zilog Z800 Microprocessor 26bit CISC 40-Pin PDIP
+K Z800
+F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
+$ENDCMP
+#
+$CMP Z8116
+D Zilog Z800 Microprocessor 26bit CISC 40-Pin PDIP
+K Z8116
+F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
+$ENDCMP
+#
+$CMP Z8208
+D 16-bit Microprocessor
+K Z800 Microprocessor CPU
+F https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf
+$ENDCMP
+#
+$CMP Z8216
+D 16-bit Microprocessor
+K Z800 Microprocessor CPU
+F https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf
+$ENDCMP
+#
+#End Doc Library

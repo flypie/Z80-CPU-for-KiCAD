@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Z8001-48-DIP
+D Z8001 CPU
+K Z8001
+F https://www.idt.com/document/dst/71321421-datasheet
+$ENDCMP
+#
+$CMP Z8001-68-PLCC
+D Zilog Z8001 Microprocessor  16bit CISC 68-Pin PLCC
+K Z8001
+F https://www.datasheetarchive.com/pdf/download.php?id=a3b3b12830bb057fba62f1a2b6106555c80964&type=O&term=zilog%2520Z280
+$ENDCMP
+#
+$CMP Z8002-40-DIP
+D Zilog Z8000 Microprocessor 16bit CISC 40-Pin PDIP
+K Z8000
+F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
+$ENDCMP
+#
+$CMP Z8002-44-PLCC
+D Zilog Z8000 Microprocessor 16bit CISC 40-Pin PDIP
+K Z8002
+F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
+$ENDCMP
+#
+$CMP Z8003-48-DIP
+D Z8003 CPU
+K Z8003
+F https://www.idt.com/document/dst/71321421-datasheet
+$ENDCMP
+#
+$CMP Z8003-68-PLCC
+D Zilog Z8001 Microprocessor  16bit CISC 68-Pin PLCC
+K Z8003
+F https://www.datasheetarchive.com/pdf/download.php?id=a3b3b12830bb057fba62f1a2b6106555c80964&type=O&term=zilog%2520Z280
+$ENDCMP
+#
+$CMP Z8004-40-DIP
+D Zilog Z8000 Microprocessor 16bit CISC 40-Pin PDIP
+K Z8000
+F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
+$ENDCMP
+#
+$CMP Z8004-44-PLCC
+D Zilog Z8000 Microprocessor 16bit CISC 44-PLCC
+K Z8000
+F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -87,13 +87,13 @@ $ENDCMP
 $CMP KIO-PLCC-84
 D Z84C90 KIO Serial/Parallel Counter/Timer
 K Z84C90 KIO Serial/Parallel Counter/Timer
-F https://www.mouser.com/datasheet/2/450/ps0118-25896.pdf
+F https://www.zilog.com/docs/z80/ps0118.pdf
 $ENDCMP
 #
 $CMP KIO-PQFP-100
 D Z84C90 KIO Serial/Parallel Counter/Timer
 K Z84C90 KIO Serial/Parallel Counter/Timer
-F https://www.mouser.com/datasheet/2/450/ps0118-25896.pdf
+F https://www.zilog.com/docs/z80/ps0118.pdf
 $ENDCMP
 #
 $CMP PIO-DIP-40
