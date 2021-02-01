@@ -3,13 +3,13 @@ EESchema-DOCLIB  Version 2.0
 $CMP Z380-100-PQFP
 D ZILOG Z380 Microprocessors - MPU 16 BIT Z80 MPU
 K  Z380  Zilog
-F https://www.mouser.de/datasheet/2/450/z380-35312.pdf
+F https://www.zilog.com/docs/serial/z380um.pdf
 $ENDCMP
 #
 $CMP Z382-Z8L382-144-PQFP
 D ZILOG Z80382 Z8L382 Microprocessors - Data Communicatiosn Processors
 K  Z380  Zilog Z80382 Z8L382
-F https://www.mouser.co.uk/datasheet/2/450/ps0067-604.pdf
+F https://www.zilog.com/docs/datacomm/pb0075.pdf
 $ENDCMP
 #
 #End Doc Library
