@@ -25,7 +25,7 @@ F https://www.mouser.co.uk/datasheet/2/450/ps0178-19386.pdf
 $ENDCMP
 #
 $CMP Z84C13-PLCC
-D Zilog Z80C13 & Z8013, Z80 Microprocessor Z80 8bit CISC 100-Pin QFP 20x30
+D Zilog Z80C13 & Z8013, Z80 Microprocessor Z80 8bit CISC 84-Pin PLCC 21x21
 K Z80 Z84C1306 Z84C1310 Z84C1516 Z841306 Z841310 Z841516
 F https://www.mouser.co.uk/datasheet/2/450/ps0182-18334.pdf
 $ENDCMP
@@ -37,7 +37,7 @@ F https://www.mouser.co.uk/datasheet/2/450/ps0182-18334.pdf
 $ENDCMP
 #
 $CMP Z84C15-VQFP
-D Zilog Z80C15, Z80 Microprocessor Z80 8bit CISC 100-Pin QFP 20x30
+D Zilog Z80C15, Z80 Microprocessor Z80 8bit CISC 100-Pin QFP 25x25
 K Z80 Z84C1506 Z84C1510 Z84C1516
 F https://www.mouser.co.uk/datasheet/2/450/ps0182-18334.pdf
 $ENDCMP
