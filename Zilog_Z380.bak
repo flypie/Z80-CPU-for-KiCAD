@@ -439,11 +439,11 @@
       )
     )
   )
-  (symbol "Z8L382-144-PQFP" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
+  (symbol "Z382-Z8L382-144-PQFP" (pin_names (offset 0.762)) (in_bom yes) (on_board yes)
     (property "Reference" "IC" (at -2.54 7.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Z8L382-144-PQFP" (at 110.49 3.81 0)
+    (property "Value" "Z382-Z8L382-144-PQFP" (at 110.49 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_QFP:PQFP-144_28x28mm_P0.65mm" (at 283.21 49.53 0)
@@ -470,7 +470,7 @@
     (property "ki_description" "ZILOG Z80382 Z8L382 Microprocessors - Data Communicatiosn Processors" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Z8L382-144-PQFP_0_0"
+    (symbol "Z382-Z8L382-144-PQFP_0_0"
       (pin output line (at 15.24 -114.3 90) (length 5.08)
         (name "A19" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -1048,7 +1048,7 @@
         (number "99" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Z8L382-144-PQFP_0_1"
+    (symbol "Z382-Z8L382-144-PQFP_0_1"
       (rectangle (start 118.11 -109.22) (end 0 0)
         (stroke (width 0) (type solid))
         (fill (type background))

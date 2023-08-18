@@ -6,7 +6,7 @@
     (property "Value" "ZilogFront" (at 5.08 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ExtraFootprints:ZilogInsideFront" (at 11.43 6.35 0)
+    (property "Footprint" "Symbol:ZilogInsideFront" (at 11.43 6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 -2.54 0)
